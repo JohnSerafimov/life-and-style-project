@@ -1,0 +1,8 @@
+@import "../../../shared/scss/variables";
+
+.contact-us-container {
+    height: 600px;
+    box-sizing: border-box;
+    background-color: $primary-color;
+    color: $white;
+}

@@ -1,0 +1,11 @@
+@import "../../shared/scss/variables";
+
+.homepage-container {
+    background-color: $dirty-white;
+    .homepage {
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+        padding: 2% 5%;
+    }
+}

@@ -1,0 +1,36 @@
+@import "../../shared/scss/variables";
+
+.info-image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 56px;
+    height: 56px;
+    // 
+    box-shadow: 0 0 20px #ccc;
+    &.round {
+        border-radius: 50%;
+    }
+    &.square {
+        border-radius: 10px;
+    }
+    &.color {
+        &-primary {
+            background-color: $primary-color;
+        }
+        &-white {
+            background-color: $white;
+        }
+    }
+    .info-image {
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: 100%;
+        &.round {
+            border-radius: 50%;
+        }
+        &.square {
+            border-radius: 10px;
+        }
+    }
+}

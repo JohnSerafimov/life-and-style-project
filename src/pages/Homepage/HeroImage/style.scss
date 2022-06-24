@@ -1,0 +1,27 @@
+@import "../../../shared/scss/variables";
+
+.hero-image-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    height: 600px;
+    box-sizing: border-box;
+    background-color: $primary-color;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    overflow: hidden;
+    .header-container {
+        margin-top: 30px;
+        color: $white;
+    }
+    .bottom-border {
+        position: absolute;
+        right: -2.5%;
+        bottom: -25%;
+        width: 105%;
+        height: 50%;
+        background: white;
+        border-top-left-radius: 100%;
+        border-top-right-radius: 100%;
+    }
+}
