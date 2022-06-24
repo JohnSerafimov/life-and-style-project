@@ -16,6 +16,7 @@ interface Reviwers {
 
 }
 
+
 const RatingAndReviews = () => {
   const reviewers: Reviwers[] = [
     {
