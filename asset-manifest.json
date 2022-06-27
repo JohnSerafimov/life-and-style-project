@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.c5c60c59.css",
-    "main.js": "/static/js/main.1e456a10.js",
-    "static/js/787.3d79399e.chunk.js": "/static/js/787.3d79399e.chunk.js",
-    "static/media/villi.jpg": "/static/media/villi.f0619fca1354008227d6.jpg",
-    "static/media/john.jpg": "/static/media/john.c53c764b848abe8ba51b.jpg",
-    "static/media/antoniya.jpg": "/static/media/antoniya.9f691097312e588e177f.jpg",
-    "index.html": "/index.html",
-    "main.c5c60c59.css.map": "/static/css/main.c5c60c59.css.map",
-    "main.1e456a10.js.map": "/static/js/main.1e456a10.js.map",
-    "787.3d79399e.chunk.js.map": "/static/js/787.3d79399e.chunk.js.map"
+    "main.css": "/johnserafimov.github.io/static/css/main.c5c60c59.css",
+    "main.js": "/johnserafimov.github.io/static/js/main.603034cd.js",
+    "static/js/787.3d79399e.chunk.js": "/johnserafimov.github.io/static/js/787.3d79399e.chunk.js",
+    "static/media/villi.jpg": "/johnserafimov.github.io/static/media/villi.f0619fca1354008227d6.jpg",
+    "static/media/john.jpg": "/johnserafimov.github.io/static/media/john.c53c764b848abe8ba51b.jpg",
+    "static/media/antoniya.jpg": "/johnserafimov.github.io/static/media/antoniya.9f691097312e588e177f.jpg",
+    "index.html": "/johnserafimov.github.io/index.html",
+    "main.c5c60c59.css.map": "/johnserafimov.github.io/static/css/main.c5c60c59.css.map",
+    "main.603034cd.js.map": "/johnserafimov.github.io/static/js/main.603034cd.js.map",
+    "787.3d79399e.chunk.js.map": "/johnserafimov.github.io/static/js/787.3d79399e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5c60c59.css",
-    "static/js/main.1e456a10.js"
+    "static/js/main.603034cd.js"
   ]
 }
